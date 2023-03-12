@@ -2,8 +2,6 @@
 <h3 align="center">Um dev Front-End e de joguinhos indie na Unity, as vezes Unreal.</h3>
 <img align="right" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=windsonvit&label=Profile%20views&color=0e75b6&style=flat" alt="windsonvit" /> </p>
-
 <p align="left"> <a href="https://twitter.com/_fbnnn" target="blank"><img src="https://img.shields.io/twitter/follow/_fbnnn?logo=twitter&style=for-the-badge" alt="_fbnnn" /></a> </p>
 
 - 🌱 Atualmente estou aprendendo **Angular**
