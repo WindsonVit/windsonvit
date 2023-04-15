@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, eu sou Windson Viturino</h1>
-<h3 align="center">Um dev Front-End e de joguinhos indie na Unity, as vezes Unreal.</h3>
+# 🏃‍♂️ I'm Windson Viturino
+**`Web Developer`**
 <img align="right" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/_fbnnn" target="blank"><img src="https://img.shields.io/twitter/follow/_fbnnn?logo=twitter&style=for-the-badge" alt="_fbnnn" /></a> </p>
