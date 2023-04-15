@@ -4,8 +4,6 @@
 I am a web developer who is 25 years old and passionate about creating exceptional user experiences.
 You can find some of my projects here on my GitHub.
 
-<p align="left"> <a href="https://twitter.com/_fbnnn" target="blank"><img src="https://img.shields.io/twitter/follow/_fbnnn?logo=twitter&style=for-the-badge" alt="_fbnnn" /></a> </p>
-
 <h3 align="left">You can find me here:</h3>
 <p align="left">
 <a href="https://twitter.com/_fbnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_fbnnn" height="30" width="40" /></a>
