@@ -1,5 +1,9 @@
 # 🏃‍♂️ I'm Windson Viturino
-**`Web Developer`**
+**`Web Developer (Creative, Resilient, and Persistent)`**
+
+I am a web developer who is 25 years old and passionate about creating exceptional user experiences.
+You can find some of my projects here on my GitHub.
+
 <img align="right" width="400" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/_fbnnn" target="blank"><img src="https://img.shields.io/twitter/follow/_fbnnn?logo=twitter&style=for-the-badge" alt="_fbnnn" /></a> </p>
